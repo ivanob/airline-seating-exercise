@@ -1,5 +1,5 @@
 
-Ivan Obeso Aguera (ivan.obeso1@gmail.com). 07/06/17
+Ivan Obeso Aguera. 07/06/17
 
 The description of the problem can be found in "Problem description.pdf"
 
